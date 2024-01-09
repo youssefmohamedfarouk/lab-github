@@ -21,7 +21,7 @@ IDK LOL
 What English mathematician and writer is often regarded as the first computer programmer?
 
 ```
-
+IDK LOL
 ```
 
 Who is the "Turing machine" named after?
